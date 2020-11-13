@@ -52,7 +52,7 @@ For next steps, the analysis should be expanded to include more global companies
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./Bankruptcy_Predictor.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
+Please review our full analysis in [our Jupyter Notebook](./Bankruptcy_Predictor.ipynb) or our [presentation](./Bankruptcy_Predictor_Slides.pdf).
 
 For additional info, contact Ben Spilsbury or Jake Oddi at
 [benjamin.spilsbury@gmail.com](mailto:benjamin.spilsbury@gmail.com) or [jakeoddi@gmail.com](mailto:jakeoddi@gmail.com.edu), respectively
@@ -64,7 +64,7 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── Bankruptcy_Predictor.ipynb          <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── Bankruptcy_Predictor_Slides.pdf     <- PDF version of project presentation
 ├── data                                <- source data used for analysis
 └── pictures                            <- saved graphs
 ```
