@@ -38,7 +38,7 @@ Model with the best F1-score and precision values (~0.94 and 1.0, respectively) 
     - retained_earnings_to_assets
     - (gross profit + depreciation) / sales
 
-### Visual 1
+
 ![Important Features](./pictures/important_features.png)
 
 ## Conclusions
@@ -54,7 +54,8 @@ For next steps, the analysis should be expanded to include more global companies
 
 Please review our full analysis in [our Jupyter Notebook](./Bankruptcy_Predictor.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact [Ben Spilsbury](benjamin.spilsbury@gmail.com) or [Jake Oddi](jakeoddi@gmail.com)
+For additional info, contact Ben Spilsbury or Jake Oddi at
+[benjamin.spilsbury@gmail.com](mailto:benjamin.spilsbury@gmail.com) or [jakeoddi@gmail.com](mailto:jakeoddi@gmail.com.edu), respectively
 
 ## Repository Structure
 
